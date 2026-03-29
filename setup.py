@@ -37,7 +37,6 @@ setup(
         'pytest-asyncio==0.23.6',
         'requests==2.31.0',
         'soupsieve==2.5',
-        'tinydb==3.8.1',
         'tomli==2.0.1',
         'urllib3==2.2.1',
         'requests[socks]',
